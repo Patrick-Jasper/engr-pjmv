@@ -1,0 +1,71 @@
+html {
+    font-family: Helvetica;
+}
+
+body {
+    margin: 0;
+}
+
+/* Sidebar Navigation */
+
+.top-bar {
+    margin: 0;
+    padding: 0 round(down, 3vw, 5px);
+    width: 100%;
+    background-color: #f1f1f1;
+    height: 5vh;
+}
+
+.top-bar a {
+    display: inline-block;
+    width: round(down, 18.5vw, 20px);
+    height: 2.5vh;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: min(2.4vh, 2.4vw);
+    padding: 1.25vh 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.top-bar a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+
+.top-bar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+/* Header */
+
+header {
+    background-image: url("../images/structure-Clem-Onojeghuo.jpg");
+    background-size: cover;
+    text-align: center;
+    height: calc(95vh);
+    /* parallax effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-text {
+    height: 120px;
+    margin: 0;
+    padding: calc((95vh - 120px) * 0.5) 0 calc((95vh - 120px) * 0.5) 0;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.header-text h1 {
+    font-size: 5em;
+    margin: 0;
+}
+
+
+.header-text h2 {
+    margin: 0;
+}
