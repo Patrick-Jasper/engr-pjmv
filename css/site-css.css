@@ -126,6 +126,8 @@ header {
 #special-button {
 	display: flex;
 	flex-direction: row;
+	justify-ites: center;
+	align-items: center;
 }
 
 #special-button div {
