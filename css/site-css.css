@@ -142,10 +142,13 @@ header {
 	text-align: right;
 	font-size: x-large;
 	color: White;
+	padding-left: 20px;
 }
 
 .button-right {
 	padding: 0, 10%;
+	align-items: center;
+	justify-content: center;
 }
 
 .button-right button {
