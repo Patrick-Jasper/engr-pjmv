@@ -126,6 +126,9 @@ header {
 #special-button {
 	display: flex;
 	flex-direction: row;
+}
+
+#special-button div {
 	flex: 0 1 50%;
 }
 
