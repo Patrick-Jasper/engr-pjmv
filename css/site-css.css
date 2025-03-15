@@ -93,6 +93,7 @@ header {
 }
 
 /* Hobbies and Interests */
+
 #hobbies-and-interests h1 {
 	text-align: center;
 	background-color: rgba(50, 50, 50, 1);
@@ -121,6 +122,11 @@ header {
 	margin: 0;
 }
 
+/* Special Button */
+#special-buttom {
+	display: flex;
+	flex: 0 1 50%;
+}
 
 /* Contact Info */
 
