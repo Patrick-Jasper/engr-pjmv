@@ -135,6 +135,23 @@ header {
 	flex: 0 1 50%;
 }
 
+.button-left {
+	background-color: rgba(25, 25, 25, 1);
+	text-align: right;
+	font-size: x-large;
+	color: White;
+}
+
+.button-right {
+	padding: 0, 10%;
+}
+
+.button-right button {
+	height: 20px;
+	width: 10%;
+	font-size: large;
+}
+
 /* Contact Info */
 
 #contact-info {
