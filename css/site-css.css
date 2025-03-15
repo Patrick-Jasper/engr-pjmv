@@ -126,7 +126,6 @@ header {
 #special-buttom {
 	display: flex;
 	flex-direction: row;
-	flex: 0 1 50%;
 }
 
 /* Contact Info */
