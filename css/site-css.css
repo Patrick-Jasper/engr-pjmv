@@ -123,9 +123,10 @@ header {
 }
 
 /* Special Button */
-#special-buttom {
+#special-button {
 	display: flex;
-	float: left;
+	flex-direction: row;
+	flex: 0 1 50%;
 }
 
 /* Contact Info */
