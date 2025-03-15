@@ -125,7 +125,7 @@ header {
 /* Special Button */
 #special-buttom {
 	display: flex;
-	flex-direction: row;
+	float: left;
 }
 
 /* Contact Info */
