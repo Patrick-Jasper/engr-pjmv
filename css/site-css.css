@@ -97,7 +97,7 @@ header {
 	text-align: center;
 	background-color: rgba(50, 50, 50, 1);
 	color: rgba(255, 255, 255, 1);
-	padding: 1% 0;
+	padding: 1% 1%;
 	margin: 0;
 }
 
@@ -142,6 +142,7 @@ header {
 }
 
 #contact-info ul li {
+	list-style-type: none;
 	display: inline;
 	width: 10%;
 	padding: 0 20px;
