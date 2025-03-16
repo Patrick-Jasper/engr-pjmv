@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 
-/* Sidebar Navigation */
+/* Navigation Menu */
 
 .top-bar {
 	position: fixed;
@@ -40,7 +40,7 @@ body {
     color: white;
 }
 
-/* Header */
+/* Main */
 
 header {
     background-image: url("../images/structure-Clem-Onojeghuo.jpg");
