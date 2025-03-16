@@ -133,7 +133,7 @@ header {
 }
 
 #special-button div {
-	height: 50%;
+	height: 100%;
 	width: 0.5;
 	flex: 0 1 50%;
 }
