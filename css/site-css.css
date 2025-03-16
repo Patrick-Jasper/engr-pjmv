@@ -144,13 +144,13 @@ header {
 	font-size: x-large;
 	color: White;
 	padding-left: 20px;
-	padding-right: 5px;
+	padding-right: 20px;
 	padding-top: 33%;
 	padding-bot: 33%;
 }
 
 .button-right {
-	padding: 33% 10%;
+	padding: 33% 33%;
 	align-items: center;
 	justify-content: center;
 }
