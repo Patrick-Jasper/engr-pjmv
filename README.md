@@ -1,4 +1,4 @@
-# engr-pjmv
+# WEBSITE OF ENGR. PATRICK JASPER M. VILLAREAL
 
 Welcome to the ReadMe for the Website of Engr. Patrick Jasper Villareal. Nothing much will be written here so sit back and enjoy!
 
@@ -20,3 +20,7 @@ Here is the list of supposed alerts that you will receive when you press the spe
 - My favorite movie is both 'Moon' and 'Mr. Holmes'
 - My favorite food is sisig with mayonnaise
 - I have also had interests in video and audio editing, with my preferred editing software being the defunct Hitfilm Express.
+
+Finally, I have included contact details like my Gmail, LinkedIn, Facebook, and even my mailing address.
+
+To conclude, if it is not clear in the beginning, I would like to inform that his website is for the partial fulfilment of the requirements for the Mini-Project for CMSC 207, which is a course for my Diploma in Computer Science which I am enrolled to in the University of the Philippines Open University.
