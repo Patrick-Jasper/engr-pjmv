@@ -130,10 +130,10 @@ header {
 	align-items: center;
 	justify-content: center;
 	align-content: center;
-	height: 50%;
 }
 
 #special-button div {
+	height: 50%;
 	width: 0.5;
 	flex: 0 1 50%;
 }
