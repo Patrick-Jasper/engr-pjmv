@@ -134,7 +134,6 @@ header {
 }
 
 #special-button div {
-	height: 100%;
 	width: 0.5;
 	flex: 0 1 50%;
 }
@@ -160,6 +159,7 @@ header {
 	height: 50px;
 	width: 25%;
 	font-size: large;
+	padding: 10% 10%;
 }
 
 /* Contact Info */
