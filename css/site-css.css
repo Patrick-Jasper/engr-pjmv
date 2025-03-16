@@ -145,12 +145,11 @@ header {
 	color: White;
 	padding-left: 20px;
 	padding-right: 20px;
-	padding-top: 33%;
-	padding-bot: 33%;
 }
 
 .button-right {
-	padding: 20% 20%;
+	padding-left: 20px;
+	padding-right: 20px;
 	align-items: center;
 	justify-content: center;
 }
