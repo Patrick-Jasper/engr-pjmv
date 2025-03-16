@@ -130,6 +130,7 @@ header {
 	align-items: center;
 	justify-content: center;
 	align-content: center;
+	height: 200px;
 }
 
 #special-button div {
